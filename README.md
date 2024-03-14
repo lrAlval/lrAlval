@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 Full-Stack Developer at @ch-robinson;
+🔭 Full-Stack Developer at  [@ch-robinson](https://github.com/ch-robinson)
 
 ## 🖌️ Stack
 <p align="center">
